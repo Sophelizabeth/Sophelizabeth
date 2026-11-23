@@ -1,4 +1,5 @@
 <div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=48&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
@@ -8,7 +9,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/c315ec8c-02a5-405f-803e-ba065c226b5b" />
+  <img data-importer="image" height="250" src="https://i.pinimg.com/736x/51/75/69/51756979d039b5281d9c966eb2f52300.jpg"  />
 </div>
 
 ###
