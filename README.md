@@ -1,5 +1,4 @@
 <div data-importer="border">
-  <img style="100%" src="<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/34717fab-433a-461c-b828-57384b4b05ad" />
 <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/c315ec8c-02a5-405f-803e-ba065c226b5b" />
 "  />
 </div>
@@ -11,7 +10,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="250" src="https://i.pinimg.com/736x/9f/4e/32/9f4e321550a2255650e9bd76d87e77a9.jpg"  />
+  <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/c315ec8c-02a5-405f-803e-ba065c226b5b" />
 </div>
 
 ###
