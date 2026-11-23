@@ -15,9 +15,7 @@
 ###
 
 <div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/1h9km4fqcfihys26zqzfonw25">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1h9km4fqcfihys26zqzfonw25&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
 </div>
 
 ###
@@ -61,9 +59,9 @@
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sophelizabeth/Sophelizabeth/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sophelizabeth/Sophelizabeth/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sophelizabeth/Sophelizabeth/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sophelizabeth/Sophelizabeth/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sophelizabeth/Sophelizabeth/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sophelizabeth/Sophelizabeth/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
 ###
