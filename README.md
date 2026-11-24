@@ -12,13 +12,12 @@
   <img data-importer="image" height="250" src="https://i.pinimg.com/736x/e3/7e/3d/e37e3d61d6bbb6f2b09a40c2953f86a9.jpg"  />
 </div>
 
-###
-
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+<div align="center">
+  <img
+    src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=1h9km4fqcfihys26zqzfonw25"
+    alt="Spotify Recently Played"
+  />
 </div>
-
-###
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=py" height="56" alt="python logo"  />
