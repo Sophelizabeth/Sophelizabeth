@@ -12,12 +12,16 @@
   <img data-importer="image" height="250" src="https://i.pinimg.com/736x/e3/7e/3d/e37e3d61d6bbb6f2b09a40c2953f86a9.jpg"  />
 </div>
 
+<h2 data-importer="text" align="center">___________________________</h2>
+
 <div align="center">
   <img
     src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=1h9km4fqcfihys26zqzfonw25"
     alt="Spotify Recently Played"
   />
 </div>
+
+<h2 data-importer="text" align="center">___________________________</h2>
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=py" height="56" alt="python logo"  />
